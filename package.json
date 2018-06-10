@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "budo": "^7.0.0",
+    "gh-pages": "^1.2.0",
     "ghpages": "0.0.3"
   },
   "keywords": [
@@ -20,6 +21,8 @@
     "vr"
   ],
   "dependencies": {
+    "aframe-fps-look-controls-component": "^1.1.0",
+    "gltf-validator": "^2.0.0-dev.2.2",
     "npm": "^6.0.1"
   }
 }
