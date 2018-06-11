@@ -8,17 +8,20 @@
   </head>
 
   <body>
-
-      <a-scene stats>
+      <a-scene>
 
           <a-assets>
             <a-asset-item id="monument" src="assets/models/monument/scene.gltf"></a-asset-item>
           </a-assets>
 
-          <a-gltf-model src="#monument"></a-gltf-model>
-          <a-sky color="#6EBAA7"></a-sky>
+          <a-entity position="0 0 0" rotation="0 90 0">
+              <a-gltf-model src="#monument" position="0 0 0"></a-gltf-model>
+              <a-sky color="#6EBAA7"></a-sky>
+          </a-entity>
+
+          <a-entity camera="active: true" look-controls wasd-controls position="-235 50 -450" data-aframe-default-camera></a-entity>
 
       </a-scene>
 
   </body>
-</html>
+  </html>
