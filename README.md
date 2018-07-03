@@ -6,12 +6,18 @@ Welcome to the development home for the Peachtree Corners Veterans Monument WebV
 
 ## Developers
 
-* Stephen Dunlap - Senior, Wesleyan School
-* Ethan Howe - Senior, Norcross High School
-* Jason Yu - Junior, Gwinnett School of Mathematics, Science, and Technology
-* Abel Abraham - Junior, Gwinnett School of Mathematics, Science, and Technology
-* Michelle Coker - Junior, Gwinnett School of Mathematics, Science, and Technology
-* Drake Howton - Sophomore, Paul Duke STEM School
+### Gwinnett School of Mathematics, Science, and Technology
+* Jason Yu, Junior
+* Abel Abraham, Junior
+* Michelle Coker, Junior
+
+### Norcross High School
+* Ethan Howe, Senior
+* Drake Howton, Sophomore
+* Colin Ryan, Freshman
+
+### Wesleyan School
+* Stephen Dunlap, Senior
 
 ## Mentors
 
