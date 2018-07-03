@@ -1,21 +1,27 @@
 # Welcome
 
-Welcome to the development home for the Peachtree Corners Veterans Monument WebVR experience. The development team is staffed by a rag-tag team of smart STEM-oriented high school students from 5 area high schools.  Part-time mentorship is provided by a team of local professionals who live and work in Technology Park, in Peachtree Corners, GA.
+Welcome to the development home for the Peachtree Corners Veterans Monument WebVR experience. The development team is staffed by a rag-tag team of smart STEM-oriented high school students from Peachtree Corners area high schools.
 
-## Development Team
+# Team
+
+## Developers
 
 * Stephen Dunlap - Senior, Wesleyan School
 * Ethan Howe - Senior, Norcross High School
-* Ian Venkatesan - Senior, Wesleyan School
 * Jason Yu - Junior, Gwinnett School of Mathematics, Science, and Technology
 * Abel Abraham - Junior, Gwinnett School of Mathematics, Science, and Technology
 * Michelle Coker - Junior, Gwinnett School of Mathematics, Science, and Technology
-* Connor Allsup - Sophomore, Lambert High School
+* Drake Howton - Sophomore, Paul Duke STEM School
 
 ## Mentors
 
 * [Sean Dunlap](https://www.linkedin.com/in/seandunlap/) - Broadcom Ltd.
 * [Mark Treager](https://www.linkedin.com/in/mark-treager/) - Cornerstone Media Group
+
+## Hosts
+
+Our office space has been donated by [Atlanta Tech Park](https://www.atlantatechpark.com/), a curated Tech Accelerator in Peachtree Corners:
+
 * [Nashlee Young](https://www.linkedin.com/in/nashlee-young-269297b/) - Emnovate / Atlanta Tech Park
 * [Robin Beinfait](https://www.linkedin.com/in/mark-treager/) - Emnovate / Atlanta Tech Park
 
