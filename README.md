@@ -6,6 +6,9 @@ Welcome to the development home for the Peachtree Corners Veterans Monument WebV
 
 ## Developers
 
+### Wesleyan School
+* Stephen Dunlap, Senior
+
 ### Gwinnett School of Mathematics, Science, and Technology
 * Jason Yu, Junior
 * Abel Abraham, Junior
@@ -15,9 +18,6 @@ Welcome to the development home for the Peachtree Corners Veterans Monument WebV
 * Ethan Howe, Senior
 * Drake Howton, Sophomore
 * Colin Ryan, Freshman
-
-### Wesleyan School
-* Stephen Dunlap, Senior
 
 ## Mentors
 
